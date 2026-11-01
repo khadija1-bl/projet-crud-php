@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 30px;
+}
+
+fieldset {
+    width: 350px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+    padding: 7px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(220, 177, 206);
+}
+
+a {
+    color: rgb(88, 88, 175);
+}
